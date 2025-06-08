@@ -1,0 +1,16 @@
+res://start.gd
+res://sound.gd
+res://main_menu.tscn
+res://crate.gd
+res://sounds.gd
+res://Scenes/main.tscn
+res://Misc/barrier.tscn
+res://crate.tscn
+res://Character/Player.tscn
+res://main_menu.gd
+res://atk_pickup.gd
+res://Character/player.gd
+res://Misc/atk_pickup.tscn
+res://Misc/health_pickup.gd
+res://Misc/speed_pickup.gd
+res://Enemy/nuno.gd
